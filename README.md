@@ -17,8 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<img align="right"alt="coding"width="400"src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
 
 <a href="https://linkedin.com/in/satyam sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam sen" height="30" width="40" /></a>
 <a href="https://instagram.com/satyamsen05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamsen05" height="30" width="40" /></a>
